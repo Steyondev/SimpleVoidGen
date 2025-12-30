@@ -2,7 +2,8 @@ name: simplevoidgen
 version: '1.0'
 main: net.onthepixel.simplevoidgen.SimpleVoidGen
 api-version: '1.21'
-author: TinyBrickBoy
-website: https://onthepixel.net
+author: Steyon
+website: https://Steyon.dev
 load: STARTUP
-description: A simple void world generator for Spigot, Bukkit and Paper servers.
+description: A simple void world generator for Spigot, Folia, Bukkit and Paper servers.
+folia-supported: true
