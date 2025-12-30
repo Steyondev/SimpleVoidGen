@@ -5,4 +5,5 @@ api-version: '1.21'
 author: TinyBrickBoy
 website: https://onthepixel.net
 load: STARTUP
-description: A simple void world generator for Spigot, Bukkit and Paper servers.
+description: A simple void world generator for Spigot, Folia, Bukkit and Paper servers.
+folia-supported: true
